@@ -1,0 +1,24 @@
+.margin1 {
+    display: block;
+    content: "";
+    margin-top: 40px;
+ }
+ 
+ br {
+    display: block;
+    content: "";
+    margin-top: 20px;
+ }
+
+ .container {
+    margin: 0 100px;
+ }
+ body {
+   background: url('music/sad\ background.jpg') center/cover no-repeat fixed;
+ }
+ p {
+   color: white;
+ }
+ h1 {
+   color: white;
+ }
